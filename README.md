@@ -1,8 +1,8 @@
 # Bakery 🧑🏼‍🍳 🥐 ✨
 
-![Bakery](https://github.com/juniorxsound/bakery/blob/main/docs/bakery_ui.png?raw=true)
-
 A Blender addon that simplifies the texture baking
+
+![Bakery](https://github.com/juniorxsound/bakery/blob/main/docs/bakery_ui.png?raw=true)
 
 ## Installation
 
@@ -95,16 +95,7 @@ Contributions are welcomed! Here's how you can help:
    git checkout -b feature/your-feature-name
    ```
 3. Make your changes
-4. Test thoroughly in Blender
-5. Submit a pull request
-
-### Development Guidelines
-
-- Follow Blender's Python style guide
-- Add comments for complex logic
-- Include error handling
-- Test on multiple platforms if possible
-- Update documentation for new features
+4. Submit a pull request
 
 ## License
 
