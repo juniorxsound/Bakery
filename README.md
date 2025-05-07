@@ -1,6 +1,6 @@
 # Bakery 🧑🏼‍🍳 🥐 ✨
 
-A Blender addon that simplifies the texture baking
+A Blender add-on that simplifies texture baking
 
 ![Bakery](https://github.com/juniorxsound/bakery/blob/main/docs/bakery_ui.png?raw=true)
 
@@ -10,7 +10,7 @@ A Blender addon that simplifies the texture baking
 2. Open Blender
 3. Go to Edit > Preferences > Add-ons
 4. Click "Install" and select the downloaded zip file
-5. Enable the addon by checking the box next to "Bakery"
+5. Enable the add-on by checking the box next to "Bakery"
 
 ## Usage
 
@@ -39,7 +39,7 @@ A Blender addon that simplifies the texture baking
 
 ```
 bakery/
-├── __init__.py      # Main addon file with registration and properties
+├── __init__.py      # Main add-on file with registration and properties
 ├── ops.py          # Operator definitions
 ├── utils.py        # Utility functions for baking
 └── panels.py       # UI panel definitions
@@ -63,7 +63,7 @@ bakery/
    mklink /D "C:\Users\YourUsername\AppData\Roaming\Blender Foundation\Blender\3.6\scripts\addons\bakery" "C:\path\to\bakery"
    ```
 
-3. Enable the addon in Blender's preferences
+3. Enable the add-on in Blender's preferences
 
 ### Key Components
 
